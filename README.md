@@ -1,6 +1,7 @@
-# Machine Learning ## by Standford University
+# Machine Learning #
+## by Standford University (Andrew NG) ##
 
-### Programming Assignment:
+### Programming Assignment: ###
 * Linear Regression
 * Logistic Regression
 * Multi-class Classification and Neural Networks
