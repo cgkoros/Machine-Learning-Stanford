@@ -8,8 +8,9 @@
     
   ####  1. Linear Regression with One Variable
     
-    Linear regression predicts a real-valued output based on an input value. We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
-    
+    <p> Linear regression predicts a real-valued output based on an input value. We discuss the application of linear 
+    regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent
+    method for learning.<p>
   ####  2. Linear Algebra Review
     
     This optional module provides a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
