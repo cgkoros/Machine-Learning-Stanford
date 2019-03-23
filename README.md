@@ -1,5 +1,4 @@
-# Machine Learning
-## by Standford University
+# Machine Learning ## by Standford University
 
 ### Programming Assignment:
 * Linear Regression
